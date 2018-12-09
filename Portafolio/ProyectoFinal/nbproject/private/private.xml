@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Clases/Conexion.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>24</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Interfaces/ListarOferta.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Negocio/Registros.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Negocio/OfertaNegocio.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Interfaces/InicioSesion.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Interfaces/CrearOferta.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Clases/Tienda.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Interfaces/RegistrarProducto.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Clases/Producto.java</file>
+            <file>file:/C:/Users/Admin/Documents/MisOfertas/Portafolio/ProyectoFinal/src/Interfaces/EncargadoTienda.java</file>
+        </group>
+    </open-files>
+</project-private>
